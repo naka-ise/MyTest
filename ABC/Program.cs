@@ -12,6 +12,7 @@ namespace ABC
         {
             Console.WriteLine("Welcome GIT!");
             Console.ReadLine();
+            Console.WriteLine("Go!");
         }
     }
 }
